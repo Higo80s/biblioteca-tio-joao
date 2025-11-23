@@ -19,10 +19,10 @@ O foco foi **aprender e dominar a integração real entre Python e banco de dado
 ## Tecnologias escolhidas e justificativa
 | Tecnologia           | Motivo da escolha                                      |
 |----------------------|--------------------------------------------------------|
-| MySQL (linha de comando) | Skill obrigatória em 95% das vagas júnior/pleno     |
-| Python 3 + pymysql   | Biblioteca leve, nativa e mais usada em empresas       |
+| MySQL (linha de comando) | Skill que gosto de estudar     |
+| Python 3 + pymysql   | Biblioteca leve, nativa e bastante usada em empresas       |
 | PowerShell + VS Code | Ambiente real de desenvolvimento Windows             |
-| Git + GitHub         | Padrão absoluto da indústria                           |
+| Git + GitHub         | Padrão de publicação e compatilhamento de projetos                           |
 
 ## Estrutura do banco de dados
 ```sql
